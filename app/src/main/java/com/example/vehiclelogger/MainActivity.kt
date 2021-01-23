@@ -10,7 +10,7 @@ import net.openid.appauth.AuthorizationServiceConfiguration
 import net.openid.appauth.ResponseTypeValues
 
 private val ISSUER_URI = "https://auth.optim.cloud"
-private val CLIENT_ID = "3ca913da-068c-45fe-8e5b-ac8cc85e4c1c"
+private val CLIENT_ID = ""
 private val REDIRECT_URI = "net.paonejp.kndzyb.appauthdemo:/cb"
 
 private val SCOPE = "profile"
