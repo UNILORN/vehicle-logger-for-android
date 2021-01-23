@@ -67,7 +67,7 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         }
-        
+
 
         val lat_text = findViewById<TextView>(R.id.lat_text)
         val lon_text = findViewById<TextView>(R.id.lon_text)
